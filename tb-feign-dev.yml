@@ -26,5 +26,5 @@ management:
       exposure: 
         include: "*"  
 my:
-  name: 万俊义
-  gender: male                      
+  name: 万俊义的儿子
+  gender: boy                      
